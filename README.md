@@ -5,7 +5,7 @@ Advanced gallery is a highly customizable offline gallery. Organize & edit your 
 The app contains no ads and unnecessary permissions. As the app doesn’t require internet access either, your privacy is protected.
 
 -------------------------------------------------
-<b>SIMPLE GALLERY PRO – FEATURES</b>
+<b> – FEATURES</b>
 -------------------------------------------------
 
 • Offline gallery with no ads or popups
